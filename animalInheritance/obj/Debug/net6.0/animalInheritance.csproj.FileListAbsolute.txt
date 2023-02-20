@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\bin\Debug\net6.0\animalInheritance.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\bin\Debug\net6.0\animalInheritance.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\bin\Debug\net6.0\animalInheritance.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\bin\Debug\net6.0\animalInheritance.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\bin\Debug\net6.0\animalInheritance.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\refint\animalInheritance.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\animalInheritance.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week2\animalInheritance\animalInheritance\obj\Debug\net6.0\ref\animalInheritance.dll
